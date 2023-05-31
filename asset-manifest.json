@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WageCalculator/static/css/main.bf5ece76.css",
+    "main.js": "/WageCalculator/static/js/main.e6bb6c4e.js",
+    "static/js/787.5480e000.chunk.js": "/WageCalculator/static/js/787.5480e000.chunk.js",
+    "index.html": "/WageCalculator/index.html",
+    "main.bf5ece76.css.map": "/WageCalculator/static/css/main.bf5ece76.css.map",
+    "main.e6bb6c4e.js.map": "/WageCalculator/static/js/main.e6bb6c4e.js.map",
+    "787.5480e000.chunk.js.map": "/WageCalculator/static/js/787.5480e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf5ece76.css",
+    "static/js/main.e6bb6c4e.js"
+  ]
+}
